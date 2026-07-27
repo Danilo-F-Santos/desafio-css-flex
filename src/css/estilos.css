@@ -17,8 +17,7 @@ body{
 }
 
 .container{
-    display: flex;
-    margin: 50px 50px;
+    display: flex;    
     margin: 0;
     padding: 0 60px;
 }
@@ -28,16 +27,14 @@ body{
     padding-top: 50px;    
 }
 
-.container .conteudo h1{
-    margin: auto;
+.container .conteudo h1{    
     color: #fff;
     font-weight: 700;
 }
 
 .conteudo .descricao{
     line-height: 25px;
-    padding-top: 10px;
-    margin: auto;  
+    padding-top: 10px;      
 }
 
 .container .conteudo p{    
